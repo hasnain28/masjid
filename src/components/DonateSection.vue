@@ -13,10 +13,10 @@
         اللَّهُمَّ بَارِكْ عَلَى مُحَمَّدٍ وَّ عَلَى آلِ مُحَمَّدٍ كَمَا بَارَكْتَ عَلَى إِبْرَاهِيمَ وَعَلَى آلِ
         إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيد
       </h3>
-      <p>
-        The organization is serving hundreds of individuals every month and offers a wide variety of services to the
-        community. In 2020, the Masjid Faizan-e-Aisha began to expand the scope of its service activities by
-        establishing academic religious teaching in addition to Islamic Studies and Arabic.
+      <p>    
+      The Darbar e Aliya Mohra Sharif has been dedicated to serving hundreds of individuals every month, providing a diverse array of services to the community. 
+      In a significant development in 2020, the shrine broadened its commitment to service by introducing academic religious teachings. This expansion includes educational programs covering Islamic Studies and Arabic, 
+      demonstrating the shrine's ongoing efforts to contribute to the spiritual and educational development of the community.
       </p>
       <p>
         Masjid Faizan-e-Aisha, a Sunni Masjid and Muslim Center, offers many services to the community including:
@@ -92,7 +92,7 @@
       <div class="col-lg-6 col-sm-12">
         <div class="align-items-center card-body d-flex h-100 justify-content-center flex-column"
              style="gap: 20px">
-          <h3 class="card-title">DONATE FOR YOUR MASJID.</h3>
+          <h3 class="card-title">DONATE TO DARBAR-E-ALIYA MOHRA SHARIF.</h3>
           <p class="card-text lh-lg">Your support and contributions will enable us to meet our goals and
             improve conditions. Your generous donation will fund our mission.</p>
           <a href="/donations" class="btn btn-lg btn-success col-10">DONATE NOW</a>

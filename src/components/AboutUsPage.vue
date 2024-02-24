@@ -14,12 +14,13 @@
         إِبْرَاهِيمَ إِنَّكَ حَمِيدٌ مَجِيد
       </h3>
       <p>
-        The organization is serving hundreds of individuals every month and offers a wide variety of services to the
-        community. In 2020, the Masjid Faizan-e-Aisha began to expand the scope of its service activities by
-        establishing academic religious teaching in addition to Islamic Studies and Arabic.
+        The organization is serving hundreds of individuals every month and offers a wide variety of services to the community. 
+        In 2020, the Darbar e Aliya Mohra Sharif expanded the scope of its service activities by establishing academic religious teachings, including Islamic Studies and Arabic.
       </p>
-      <p>
-        Masjid Faizan-e-Aisha, a Sunni Masjid and Muslim Center, offers many services to the community including:
+      <p>    
+      Darbar e Aliya Mohra Sharif, a revered shrine and spiritual center, provides a multitude of services to the community, 
+      encompassing not only spiritual guidance but also extending its support to various aspects of community welfare. In addition to its sacred role, 
+      the shrine actively engages in activities such as educational services, cultural enrichment, and social welfare programs to serve the needs of the people.The services includes:
       </p>
       <ul class="list-unstyled">
         <li>Daily Prayers</li>
@@ -63,7 +64,7 @@
         (Bukhari)
       </p>
       <p>
-        It is important to learn Quran-ul-Kareem for every Muslim. Masjid Faizan-e-Aisha provides best opportunity for
+        It is important to learn Quran-ul-Kareem for every Muslim. Darbar-e-Aliya Mohra Sharif provides best opportunity for
         everyone to learn Quran with proper Tajveed (pronunciation).
       </p>
     </div>
@@ -75,11 +76,11 @@
     </div>
     <div class="card-body col-md-8 col-sm-12 text-center">
       <p>
-        Masjid Faizan-e-Aisha provides daily Quran classes for the beginners. Starting from Qaida to Kirat. Children are
+        Darbar-e-Aliya Mohra Sharif provides daily Quran classes for the beginners. Starting from Qaida to Kirat. Children are
         encouraged to memories the Quran to be lead and a roll-model for others here and hereafter.
       </p>
       <p>
-        Please look around your home for the next Hafiz-e-Quran to be our roll model. Masjid Faizan-e-Aisha will honored
+        Please look around your home for the next Hafiz-e-Quran to be our roll model. Darbar-e-Aliya Mohra Sharif will honored
         to have more and more children in Hafiz-e-Quran program.
       </p>
     </div>

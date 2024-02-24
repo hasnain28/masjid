@@ -1,7 +1,7 @@
 <template>
   <a class="text-dark text-decoration-none" href="#">
     <h1 class="display-1 text-center fw-semibold">
-      Faizan-E-Aisha Masjid
+      Darbar-e-Aliya Mohra Sharif
       <span class="h4"><br/>
                 <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" fill="currentColor"
                      class="bi bi-telephone"
