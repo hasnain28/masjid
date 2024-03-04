@@ -10,8 +10,8 @@ const HeaderTopbar2 = () => {
                     <div className="col col-md-6 col-sm-7 col-12">
                         <div className="contact-intro">
                             <ul>
-                                <li><i className="fi ti-location-pin"></i>28 Street, New York City, USA</li>
-                                <li><i className="fi flaticon-envelope"></i> Ummah@gmail.com</li>
+                                <li><i className="fi ti-location-pin"></i>Mohra Sharif Rawalpindi</li>
+                                <li><i className="fi flaticon-envelope"></i> mohrasharifrawalpindi@gmail.com</li>
                             </ul>
                         </div>
                     </div>

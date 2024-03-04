@@ -28,7 +28,7 @@ class Hero2 extends Component {
                                 <div className="row">
                                     <div className="col col-lg-8 offset-lg-2 col-md-12 slide-caption">
                                         <div className="slide-top">
-                                            <span>Let’s Know Islam</span>
+                                            <span>Let’s know Islam through Mohra Sharif</span>
                                         </div>
                                         <div className="slide-title">
                                             <h2>Read! In the Name of your Lord, Who has created</h2>
@@ -45,7 +45,7 @@ class Hero2 extends Component {
                                 <div className="row">
                                     <div className="col col-lg-8 offset-lg-2 col-md-12 slide-caption">
                                         <div className="slide-top">
-                                            <span>Let’s Know Islam</span>
+                                            <span>Let’s know Islam through Mohra Sharif</span>
                                         </div>
                                         <div className="slide-title">
                                             <h2>Read! In the Name of your Lord, Who has created</h2>
@@ -62,7 +62,7 @@ class Hero2 extends Component {
                                 <div className="row">
                                     <div className="col col-lg-8 offset-lg-2 col-md-12 slide-caption">
                                         <div className="slide-top">
-                                            <span>Let’s Know Islam</span>
+                                            <span>Let’s know Islam through Mohra Sharif</span>
                                         </div>
                                         <div className="slide-title">
                                             <h2>Read! In the Name of your Lord, Who has created</h2>

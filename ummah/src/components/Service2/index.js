@@ -22,7 +22,7 @@ const Service2 = (props) => {
         },
         {
            simg:service2,
-           title:"Special Child Care",
+           title:"Clean Water Bores",
            link:"/service-single"
         },
         {
@@ -32,17 +32,17 @@ const Service2 = (props) => {
         },
         {
            simg:service4,
-           title:"Matrimonial",
+           title:"Feeding the needy",
            link:"/service-single"
         },
         {
            simg:service5,
-           title:"Funerals",
+           title:"Child Sponsers",
            link:"/service-single"
         },
         {
            simg:service6,
-           title:"Help Poor",
+           title:"Animal Sacrifice",
            link:"/service-single"
         },
     ]

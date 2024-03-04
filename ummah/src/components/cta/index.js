@@ -13,7 +13,7 @@ const CtaSection = (props) => {
                     <div className="col-lg-12">
                         <div className="wpo-cta-text">
                             <h2>You Can Help The Poor With Us</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse </p>
+                            <p>Spirtual Event, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse </p>
                             <div className="btns">
                                 <Link onClick={ClickHandler} to="/donate" className="theme-btn">Donate Now</Link>
                                 <Link onClick={ClickHandler}to="/home" className="theme-btn-s2">Join Us Now</Link>

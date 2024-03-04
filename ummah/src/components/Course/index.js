@@ -14,32 +14,32 @@ const Course = (props) => {
         {
           cIcon:icon1,
           heading:"Quran Memorization",
-          pra:"This course intends to help the students memorize Holy Quran. Students who wish to memorize a part or all the Quran.",
+          pra:"This course intends to help the students memorize Holy Quran. Classes are being conducted on daily basis at Darbar Mohra Sharif Rawalpindi.",
         },
         {
           cIcon:icon2,
           heading:"Junior Preschool",
-          pra:"This course intends to help the students memorize Holy Quran. Students who wish to memorize a part or all the Quran.",
+          pra:"Balancing Islamic and traditional education is crucial, so along with islamic education children are also taught traditional education as well.",
         },
         {
           cIcon:icon3,
           heading:"Junior High School",
-          pra:"This course intends to help the students memorize Holy Quran. Students who wish to memorize a part or all the Quran.",
+          pra:"Intelligent students are sponsered for High school education as well",
         },
         {
           cIcon:icon4,
-          heading:"Islamic Education",
-          pra:"This course intends to help the students memorize Holy Quran. Students who wish to memorize a part or all the Quran.",
+          heading:"Stitching Course",
+          pra:"Stitching courses are taught at Mohra Sharif to skillfully train young girls in the art of sewing so they can contribute to the income of there families in a respectable way",
         },
         {
           cIcon:icon5,
-          heading:"Arabic Language",
-          pra:"This course intends to help the students memorize Holy Quran. Students who wish to memorize a part or all the Quran.",
+          heading:"Language Courses",
+          pra:"Different language courses are also taught like English Arabic etc.",
         },
         {
           cIcon:icon6,
           heading:"Learning Technologies",
-          pra:"This course intends to help the students memorize Holy Quran. Students who wish to memorize a part or all the Quran.",
+          pra:"Different type of computer courses and other technology related courses are also taught",
         },
     ]
     return(

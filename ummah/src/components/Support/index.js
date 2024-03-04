@@ -16,7 +16,7 @@ const Support = (props) => {
                         <div className="support-text">
                             <span>Support Us</span>
                             <h2>We Need Your Help</h2>
-                            <p>The Weekend School of the Islamic Center of Allah is committed to providing quality Islamic Education according to the Quran.</p>
+                            <p>We need your help in meeting the expenses</p>
                             <div className="btns">
                                 <Link onClick={ClickHandler} to="/donate" className="theme-btn-s3">Donate Now</Link>
                             </div>

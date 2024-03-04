@@ -10,8 +10,8 @@ const HeaderTopbar = () => {
                     <div className="col col-md-6 col-sm-12 col-12">
                         <div className="contact-intro">
                             <ul>
-                                <li><i className="fi flaticon-call"></i>+000123456789</li>
-                                <li><i className="fi flaticon-envelope"></i> ummah@gmail.com</li>
+                                <li><i className="fi flaticon-call"></i>+923005264409</li>
+                                <li><i className="fi flaticon-envelope"></i>mohrasharifrawalpindi@gmail.com</li>
                             </ul>
                         </div>
                     </div>

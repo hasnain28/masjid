@@ -22,7 +22,7 @@ const Footer = (props) =>{
                                 <div className="logo widget-title">
                                     <img src={Logo} alt="" />
                                 </div>
-                                <p>Build and Earn with your online store with lots of cool and exclusive wpo-features </p>
+                                <p>You can also follow us on social media through below links </p>
                                 <ul>
                                     <li><Link onClick={ClickHandler} to="/"><i className="ti-facebook"></i></Link></li>
                                     <li><Link onClick={ClickHandler} to="/"><i className="ti-twitter-alt"></i></Link></li>
@@ -37,9 +37,9 @@ const Footer = (props) =>{
                                     <h3>Service</h3>
                                 </div>
                                 <ul>
-                                    <li><Link onClick={ClickHandler} to="/service-single">Islamic School</Link></li>
+                                    <li><Link onClick={ClickHandler} to="/service-single">Quran courses</Link></li>
                                     <li><Link onClick={ClickHandler} to="/service-single">Our Causes</Link></li>
-                                    <li><Link onClick={ClickHandler} to="/service">Our Service</Link></li>
+                                    <li><Link onClick={ClickHandler} to="/service">Our Services</Link></li>
                                     <li><Link onClick={ClickHandler} to="/contact">Contact Us</Link></li>
                                     <li><Link onClick={ClickHandler} to="/event">Our Event</Link></li>
                                 </ul>
@@ -53,8 +53,8 @@ const Footer = (props) =>{
                                 <ul>
                                     <li><Link onClick={ClickHandler} to="/about">About Us</Link></li>
                                     <li><Link onClick={ClickHandler} to="/service-single">Services</Link></li>
-                                    <li><Link onClick={ClickHandler} to="/event">Semester</Link></li>
-                                    <li><Link onClick={ClickHandler} to="/about">Prayer Times</Link></li>
+                                    <li><Link onClick={ClickHandler} to="/event">Events</Link></li>
+                                    {/* <li><Link onClick={ClickHandler} to="/about">Prayer Times</Link></li> */}
                                 </ul>
                             </div>
                         </div>
@@ -63,12 +63,12 @@ const Footer = (props) =>{
                                 <div className="widget-title">
                                     <h3>Contact </h3>
                                 </div>
-                                <p>online store with lots of cool and exclusive wpo-features</p>
+                                <p>Contact us for further details</p>
                                 <div className="contact-ft">
                                     <ul>
-                                        <li><i className="fi ti-location-pin"></i>28 Street, New York City, USA</li>
-                                        <li><i className="fi flaticon-call"></i>+000123456789</li>
-                                        <li><i className="fi flaticon-envelope"></i>ummah@gmail.com</li>
+                                        <li><i className="fi ti-location-pin"></i>Mohra Sharif Rawalpindi</li>
+                                        <li><i className="fi flaticon-call"></i>+923005264409</li>
+                                        <li><i className="fi flaticon-envelope"></i>mohrasharifrawalpindi@gmail.com</li>
                                     </ul>
                                 </div>
                             </div>
@@ -80,7 +80,7 @@ const Footer = (props) =>{
                 <div className="container">
                     <div className="row">
                         <div className="col col-xs-12">
-                            <p className="copyright">&copy; 2021 Ummah. All rights reserved</p>
+                            <p className="copyright">&copy; 2024 MohraSharifRawalpindi. All rights reserved</p>
                         </div>
                     </div>
                 </div>

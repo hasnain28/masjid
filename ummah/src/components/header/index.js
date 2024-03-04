@@ -25,41 +25,41 @@ const Header = () => {
                     <div className="row">
                         <div className="col-lg-3 col-md-4 col-sm-4 col-4">
                             <div className="logo">
-                                <Link onClick={ClickHandler} to="/home" title=""><img src={Logo} alt=""/></Link>
+                                <Link onClick={ClickHandler} to="/home2" title=""><img src={Logo} alt=""/></Link>
                             </div>
                         </div>
                         <div className="col-lg-8 d-lg-block d-none">
                             <nav>
                                 <ul>
-                                    <li><Link onClick={ClickHandler} className="active" to="/home" title="">Home</Link>
-                                        <ul>
+                                    <li><Link onClick={ClickHandler} className="active" to="/home2" title="">Home</Link>
+                                        {/* <ul>
                                             <li><Link onClick={ClickHandler} className="active" to="/home">Home style 1</Link></li>
                                             <li><Link onClick={ClickHandler} to="/home2">Home style 2</Link></li>
                                             <li><Link onClick={ClickHandler} to="/home3">Home style 3</Link></li>
                                             <li><Link onClick={ClickHandler} to="/home4">Home style 4</Link></li>
-                                        </ul>
+                                        </ul> */}
                                     </li>
                                     <li><Link onClick={ClickHandler} to="/about" title="">About</Link></li>
                                     <li><Link onClick={ClickHandler} to="/service" title="">Service</Link>
-                                        <ul>
+                                        {/* <ul>
                                             <li><Link onClick={ClickHandler} to="/service" title="">Service</Link></li>
                                             <li><Link onClick={ClickHandler} to="/service-single" title="">Service Single</Link></li>
-                                        </ul>
+                                        </ul> */}
                                     </li>
                                     <li><Link onClick={ClickHandler} to="/event" title="">Event</Link>
-                                        <ul>
+                                        {/* <ul>
                                             <li><Link onClick={ClickHandler} to="/event" title="">Event</Link></li>
                                             <li><Link onClick={ClickHandler} to="/event-single" title="">Event Single</Link></li>
-                                        </ul>
+                                        </ul> */}
                                     </li>
-                                    <li><Link onClick={ClickHandler} to="/home" title="">Pages</Link>
-                                        <ul>
+                                    <li><Link onClick={ClickHandler} to="/donate" title="">Donate</Link>
+                                        {/* <ul>
                                             <li><Link onClick={ClickHandler} to="/about" title="">About</Link></li>
                                             <li><Link onClick={ClickHandler} to="/shop" title="">Shop</Link></li>
                                             <li><Link onClick={ClickHandler} to="/shop-single" title="">Shop Single</Link></li>
                                             <li><Link onClick={ClickHandler} to="/donate" title="">Donate</Link></li>
                                             <li><Link onClick={ClickHandler} to="/404" title="">Error 404</Link></li>
-                                        </ul>
+                                        </ul> */}
                                     </li>
                                     <li><Link onClick={ClickHandler} to="/blog">Blog</Link>
                                         <ul>

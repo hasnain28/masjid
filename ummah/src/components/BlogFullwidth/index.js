@@ -29,7 +29,7 @@ const BlogFullwidth = () => {
                                     <li><Link onClick={ClickHandler} to="/blog-details"> 25 Feb 2021</Link></li>
                                 </ul>
                                 <h3><Link onClick={ClickHandler} to="/blog-details">The Importance of Marriage in Islam.</Link></h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt of the graduate ut labore et dolore magna aliqua.</p>
+                                <p>Spirtual Event, sed do eiusmod tempor incididunt of the graduate ut labore et dolore magna aliqua.</p>
                                 <div className="entry-bottom">
                                     <Link onClick={ClickHandler} to="/blog-details" className="read-more">View More...</Link>
                                     <ul>
@@ -52,7 +52,7 @@ const BlogFullwidth = () => {
                                     <li><Link onClick={ClickHandler} to="/blog-details"> 25 Feb 2021</Link></li>
                                 </ul>
                                 <h3><Link onClick={ClickHandler} to="/blog-details">The Importance of Marriage in Islam.</Link></h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt of the graduate ut labore et dolore magna aliqua.</p>
+                                <p>Spirtual Event, sed do eiusmod tempor incididunt of the graduate ut labore et dolore magna aliqua.</p>
                                 <div className="entry-bottom">
                                     <Link onClick={ClickHandler} to="/blog-details" className="read-more">View More...</Link>
                                     <ul>
@@ -70,7 +70,7 @@ const BlogFullwidth = () => {
                                     <li><Link onClick={ClickHandler} to="/blog-details"> 25 Feb 2021</Link></li>
                                 </ul>
                                 <h3><Link onClick={ClickHandler} to="/blog-details">Compleate Hajj guide for your Hajj.</Link></h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt of the graduate ut labore et dolore magna aliqua.</p>
+                                <p>Spirtual Event, sed do eiusmod tempor incididunt of the graduate ut labore et dolore magna aliqua.</p>
                                 <div className="entry-bottom">
                                     <Link onClick={ClickHandler} to="/blog-details" className="read-more">View More...</Link>
                                     <ul>
@@ -97,7 +97,7 @@ const BlogFullwidth = () => {
                                     <li><Link onClick={ClickHandler} to="/blog-details"> 25 Feb 2021</Link></li>
                                 </ul>
                                 <h3><Link onClick={ClickHandler} to="/blog-details">Salat is the best exercise for body fitness</Link></h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt of the graduate ut labore et dolore magna aliqua.</p>
+                                <p>Spirtual Event, sed do eiusmod tempor incididunt of the graduate ut labore et dolore magna aliqua.</p>
                                 <div className="entry-bottom">
                                     <Link onClick={ClickHandler} to="/blog-details" className="read-more">View More...</Link>
                                     <ul>
@@ -123,7 +123,7 @@ const BlogFullwidth = () => {
                                     <li><Link onClick={ClickHandler} to="/blog-details"> 25 Feb 2021</Link></li>
                                 </ul>
                                 <h3><Link onClick={ClickHandler} to="/blog-details">Salat is the best exercise for body fitness</Link></h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt of the graduate ut labore et dolore magna aliqua.</p>
+                                <p>Spirtual Event, sed do eiusmod tempor incididunt of the graduate ut labore et dolore magna aliqua.</p>
                                 <div className="entry-bottom">
                                     <Link onClick={ClickHandler} to="/blog-details" className="read-more">View More...</Link>
                                     <ul>
@@ -142,7 +142,7 @@ const BlogFullwidth = () => {
                                     <li><Link onClick={ClickHandler} to="/blog-details"> 25 Feb 2021</Link></li>
                                 </ul>
                                 <h3><Link onClick={ClickHandler} to="/blog-details">Salat is the best exercise for body fitness</Link></h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt of the graduate ut labore et dolore magna aliqua.</p>
+                                <p>Spirtual Event, sed do eiusmod tempor incididunt of the graduate ut labore et dolore magna aliqua.</p>
                                 <div className="entry-bottom">
                                     <Link onClick={ClickHandler} to="/blog-details" className="read-more">View More...</Link>
                                     <ul>

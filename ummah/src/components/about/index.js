@@ -24,9 +24,10 @@ const About = (props) => {
                             <div className="wpo-about-text">
                                 <div className="wpo-section-title">
                                     <span>About Us</span>
-                                    <h2>Seeking of knowledge is a duty of every Muslim</h2>
+                                    <h2>Brief history of Mohra Sharif</h2>
                                 </div>
-                                <p>The rise of Muslims to the zenith of civilization in a period of four decades was based on lslam's emphasis on learning. This is obvious when one takes a look at the Qur'an and the traditions of Prophet Muhammad which are filled with references to learning, education, observation.</p>
+                                <p>Mohra Sharif is a spiritual center and home of the Sufi order Naqshbandi. Hazrat baba Qasim is the founder of this Sufi center. Darbar Mohra Sharif is 200 years old Sufi institute with a clear vision of spreading true teachings of Islam which primarily focuses on love and respect of Allah (SWT), Rasool (SAW), and Panjtan-Pak.
+Helping the needy, orphans, sick, educating people, and serving humanity are the core values of Mohra Sharif Sufis.</p>
                                 <div className="btns">
                                     <Link onClick={ClickHandler} to="/about" className="theme-btn" tabIndex="0">Discover More</Link>
                                     <ul>
@@ -47,7 +48,7 @@ const About = (props) => {
                         <div className="col-lg-5">
                             <div className="timer-text">
                                 <h2>Prayer Times</h2>
-                                <p>Prayer times in United Arab Emirates</p>
+                                <p>Prayer times in Rawalpindi Pakistan</p>
                                 <span>Mon 15 Jan, 2021</span>
                             </div>
                         </div>

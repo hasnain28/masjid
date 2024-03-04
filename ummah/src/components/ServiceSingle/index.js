@@ -47,11 +47,11 @@ const ServiceSingle = (props) => {
                             <div className="widget service-list-widget">
                                 <h3>All Services</h3>
                                 <ul>
-                                    <li className="current"><Link to="/service-single">Special Child Care</Link></li>
+                                    <li className="current"><Link to="/service-single">Quran Memorization</Link></li>
+                                    <li><Link onClick={ClickHandler} to="/service-single">Clean Water Bores</Link></li>
                                     <li><Link onClick={ClickHandler} to="/service-single">Mosque Development</Link></li>
-                                    <li><Link onClick={ClickHandler} to="/service-single">Matrimonial</Link></li>
-                                    <li><Link onClick={ClickHandler} to="/service-single">Funerals</Link></li>
-                                    <li><Link onClick={ClickHandler} to="/service-single">Help Poor</Link></li>
+                                    <li><Link onClick={ClickHandler} to="/service-single">Feeding the needy</Link></li>
+                                    <li><Link onClick={ClickHandler} to="/service-single">Child Sponsers</Link></li>
                                 </ul>
                             </div>
                             <div className="widget contact-widget">
