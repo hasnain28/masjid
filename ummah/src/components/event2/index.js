@@ -52,7 +52,7 @@ const EventSection2 = (props) => {
            location:"Newyork City",
            des:"Lorem ipsum dolor sit amet, consectetur adipiscing elit",
            btn:"Learn More...",
-           link:"/event-single",
+           link:"/event-single-child-care",
          },
      ]
 

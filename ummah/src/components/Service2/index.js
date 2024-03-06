@@ -23,7 +23,7 @@ const Service2 = (props) => {
         {
            simg:service2,
            title:"Special Child Care",
-           link:"/service-single"
+           link:"/service-single-child-care"
         },
         {
            simg:service3,

@@ -23,7 +23,8 @@ import ErrorPage from '../ErrorPage'
 import ContactPage from '../ContactPage' 
 import LoginPage from '../LoginPage' 
 import SignUpPage from '../SignUpPage' 
-import ForgotPassword from '../ForgotPassword' 
+import ForgotPassword from '../ForgotPassword'
+import ServiceSingleChildCarePage from "../ServiceSingleChildCarePage";
       
 
 const AllRoute = () => { 
@@ -42,6 +43,7 @@ const AllRoute = () => {
             <Route path='/shop' component={ShopPage} />
             <Route path='/shop-single' component={ShopSinglePage} />
             <Route path='/service-single' component={ServiceSinglePage}/>
+            <Route path='/service-single-child-care' component={ServiceSingleChildCarePage}/>
             <Route path='/event' component={EventPage}/>
             <Route path='/event-single' component={EventPageSingle}/>
             <Route path='/donate' component={DonatePage}/>
