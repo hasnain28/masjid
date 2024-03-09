@@ -62,7 +62,7 @@ const Header = () => {
                                         </ul> */}
                                     </li>
                                     <li><Link onClick={ClickHandler} to="/blog">Blog</Link>
-                                        <ul>
+                                        {/* <ul>
                                             <li><Link onClick={ClickHandler} to="/blog">Blog</Link></li>
                                             <li><Link onClick={ClickHandler} to="/blog-left">Blog Left sidebar</Link></li>
                                             <li><Link onClick={ClickHandler} to="/blog-fullwidth">Blog full width</Link></li>
@@ -73,7 +73,7 @@ const Header = () => {
                                                     <li><Link onClick={ClickHandler} to="/blog-details-fullwidth" title="">Blog single full width</Link></li>
                                                 </ul>
                                             </li>
-                                        </ul>
+                                        </ul> */}
                                     </li>
                                     <li><Link onClick={ClickHandler} to="/contact" title="">Contact</Link></li>
                                 </ul>
